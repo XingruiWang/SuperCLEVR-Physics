@@ -17,8 +17,8 @@ def config():
     parser = kb.ArgumentParser()
 
     parser.set_defaults(
-        frame_end = 60,
-        # frame_end = 2,
+        # frame_end = 60,
+        frame_end = 5,
         resolution=(1280, 960),
     )
 
@@ -47,7 +47,7 @@ def config():
     parser.add_argument('--output_dir', type=str)
 
     # debug
-    parser.add_argument('--height', type=str, default='realistic')
+    parser.add_argument('--height', type=str, choices=["realistic", "random"], default='realistic')
     parser.add_argument('--skip_segmentation', action='store_true')
 
 
@@ -195,6 +195,7 @@ def add_random_objects(args, rng, scene, source_path):
         obj.quaternion = random_rotate_quaternion(rng)
 
         obj.velocity = (rng.uniform(*[(-4., -4., 0.), (4., 4., 0.)]) - [obj.position[0], obj.position[1], 0])
+
 
         scene += obj
         rng.uniform((-4., -4., 0.), (4., 4., 0.))
