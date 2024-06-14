@@ -1,0 +1,2415 @@
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+teufelsberg_inner
+adding 3 objects.
+aeroplane/fighter/blue
+bus/school/gray
+motorbike/dirtbike/red
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+suburban_parking_area
+adding 3 objects.
+aeroplane/fighter/green
+aeroplane/airliner/cyan
+motorbike/chopper/blue
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+hansaplatz
+adding 3 objects.
+aeroplane/jet/purple
+bicycle/utility/yellow
+car/sedan/blue
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+snowy_hillside
+adding 4 objects.
+aeroplane/jet/brown
+car/minivan/yellow
+car/minivan/purple
+aeroplane/jet/green
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+je_gray_02
+adding 5 objects.
+aeroplane/airliner/green
+aeroplane/fighter/blue
+motorbike/cruiser/brown
+bus/articulated/brown
+car/sedan/cyan
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+summer_stage_02
+adding 4 objects.
+aeroplane/jet/purple
+bicycle/tandem/blue
+bus/school/gray
+bus/double/red
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+modern_buildings_night
+adding 3 objects.
+aeroplane/jet/red
+motorbike/dirtbike/yellow
+car/suv/purple
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+noon_grass
+adding 3 objects.
+aeroplane/jet/yellow
+bus/school/purple
+car/suv/purple
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+portland_landing_pad
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+sunny_vondelpark
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+park_parking
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+blue_lagoon_night
+adding 4 objects.
+aeroplane/airliner/brown
+car/sedan/brown
+car/wagon/gray
+aeroplane/fighter/red
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+sepulchral_chapel_rotunda
+adding 5 objects.
+aeroplane/fighter/gray
+motorbike/dirtbike/yellow
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+cayley_lookout
+adding 5 objects.
+aeroplane/fighter/yellow
+car/truck/red
+bus/articulated/yellow
+bus/school/purple
+motorbike/cruiser/brown
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+shanghai_bund
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+suburban_parking_area
+adding 4 objects.
+aeroplane/fighter/yellow
+aeroplane/fighter/blue
+aeroplane/jet/yellow
+bus/school/blue
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+output_dir: output
+limehouse
+adding 3 objects.
+aeroplane/airliner/cyan
+car/suv/cyan
+bicycle/tandem/red
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+output_dir: output
+lythwood_field
+adding 3 objects.
+aeroplane/jet/green
+bus/articulated/blue
+car/suv/blue
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+output_dir: output
+anniversary_lounge
+adding 5 objects.
+aeroplane/jet/blue
+car/wagon/brown
+bicycle/mountain/blue
+car/sedan/yellow
+bus/articulated/blue
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+output_dir: output
+industrial_sunset
+adding 4 objects.
+aeroplane/fighter/gray
+car/truck/red
+bicycle/tandem/green
+aeroplane/fighter/red
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+output_dir: output
+courtyard
+adding 3 objects.
+aeroplane/fighter/gray
+bus/articulated/green
+motorbike/dirtbike/gray
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+output_dir: output
+blinds
+adding 3 objects.
+aeroplane/fighter/green
+bus/double/brown
+motorbike/dirtbike/yellow
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+output_dir: output
+blue_lagoon
+adding 5 objects.
+aeroplane/airliner/green
+motorbike/dirtbike/brown
+bicycle/tandem/brown
+bus/articulated/brown
+motorbike/chopper/gray
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+output_dir: output
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+output_dir: /home/angtian/xingrui/superclevr2kubric/output/physics_super_clevr/super_clever_0
+bethnal_green_entrance
+adding 5 objects.
+aeroplane/fighter/gray
+car/minivan/red
+car/truck/blue
+aeroplane/jet/cyan
+bicycle/utility/gray
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+output_dir: /home/angtian/xingrui/superclevr2kubric/output/physics_super_clevr/super_clever_1
+rooitou_park
+adding 5 objects.
+aeroplane/airliner/brown
+bicycle/utility/brown
+car/truck/blue
+bus/double/cyan
+motorbike/dirtbike/purple
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+output_dir: /home/angtian/xingrui/superclevr2kubric/output/physics_super_clevr/super_clever_2
+skukuza_golf
+adding 4 objects.
+aeroplane/airliner/red
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+output_dir: output
+> /kubric/sim_render_color_defined.py(396)sim_run()
+-> renderer = Blender(scene, scratch_dir,
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) (Pdb) --KeyboardInterrupt--
+(Pdb) (Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) (Pdb) (Pdb) (Pdb) (Pdb) (Pdb) (Pdb) (Pdb) --KeyboardInterrupt--
+(Pdb) (Pdb) (Pdb) (Pdb) (Pdb) (Pdb) (Pdb) (Pdb) (Pdb) (Pdb) (Pdb) (Pdb) (Pdb) 
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+vulture_hide
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+bell_park_pier
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+dresden_moat
+adding 4 objects.
+aeroplane/airliner/yellow
+car/truck/green
+bus/school/red
+car/wagon/yellow
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+san_giuseppe_bridge
+adding 3 objects.
+aeroplane/jet/green
+aeroplane/airliner/cyan
+car/wagon/cyan
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+green_point_park
+adding 4 objects.
+aeroplane/airliner/red
+bicycle/mountain/gray
+car/sedan/yellow
+bus/school/green
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1296, total unfreed memory 161.820286 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+rooitou_park
+adding 3 objects.
+aeroplane/airliner/cyan
+bus/school/red
+motorbike/chopper/brown
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+photo_studio_loft_hall
+adding 3 objects.
+aeroplane/fighter/yellow
+motorbike/scooter/brown
+bus/school/brown
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1247, total unfreed memory 102.567867 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+cave_wall
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+leadenhall_market
+adding 5 objects.
+aeroplane/airliner/yellow
+bus/articulated/green
+car/wagon/gray
+motorbike/scooter/yellow
+aeroplane/airliner/gray
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+abandoned_tank_farm_01
+adding 3 objects.
+aeroplane/jet/red
+motorbike/chopper/green
+motorbike/scooter/yellow
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+teufelsberg_inner
+adding 3 objects.
+aeroplane/jet/yellow
+car/wagon/yellow
+motorbike/chopper/purple
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+theater_02
+adding 4 objects.
+aeroplane/airliner/green
+bicycle/tandem/gray
+car/truck/red
+aeroplane/fighter/blue
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+stone_alley_02
+adding 3 objects.
+aeroplane/airliner/brown
+car/suv/green
+bus/articulated/yellow
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+red_hill_straight
+adding 3 objects.
+aeroplane/airliner/yellow
+bicycle/utility/green
+aeroplane/airliner/blue
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+en_suite
+adding 4 objects.
+aeroplane/airliner/yellow
+car/suv/green
+bicycle/tandem/blue
+car/wagon/gray
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+courtyard
+adding 4 objects.
+aeroplane/jet/purple
+bicycle/utility/green
+bicycle/utility/purple
+motorbike/cruiser/green
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+aviation_museum
+adding 3 objects.
+aeroplane/fighter/gray
+motorbike/cruiser/yellow
+car/sedan/green
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+under_bridge
+adding 4 objects.
+aeroplane/jet/cyan
+bicycle/utility/brown
+aeroplane/jet/green
+motorbike/scooter/gray
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+snowy_hillside_02
+adding 3 objects.
+aeroplane/airliner/red
+car/sedan/purple
+car/sedan/red
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+courtyard_night
+adding 3 objects.
+aeroplane/fighter/red
+bus/school/yellow
+car/minivan/yellow
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+between_bridges
+adding 5 objects.
+aeroplane/airliner/brown
+motorbike/dirtbike/blue
+car/truck/red
+bicycle/tandem/brown
+bicycle/tandem/brown
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+peppermint_powerplant
+adding 4 objects.
+aeroplane/jet/yellow
+motorbike/scooter/brown
+car/truck/gray
+motorbike/scooter/gray
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+country_club
+adding 3 objects.
+aeroplane/airliner/yellow
+motorbike/scooter/blue
+aeroplane/jet/cyan
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+storeroom
+adding 5 objects.
+aeroplane/airliner/brown
+car/wagon/cyan
+bus/school/brown
+car/sedan/yellow
+motorbike/scooter/brown
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+adams_place_bridge
+adding 5 objects.
+aeroplane/airliner/yellow
+aeroplane/airliner/gray
+aeroplane/jet/cyan
+aeroplane/airliner/purple
+aeroplane/fighter/green
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+blau_river
+adding 4 objects.
+aeroplane/jet/green
+aeroplane/fighter/green
+bus/articulated/brown
+bicycle/tandem/yellow
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+old_hall
+adding 4 objects.
+aeroplane/fighter/yellow
+aeroplane/airliner/gray
+aeroplane/fighter/brown
+car/truck/yellow
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+cambridge
+adding 4 objects.
+aeroplane/fighter/cyan
+bus/double/brown
+motorbike/scooter/yellow
+bicycle/mountain/cyan
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+lebombo
+adding 4 objects.
+aeroplane/fighter/red
+aeroplane/fighter/purple
+aeroplane/jet/gray
+motorbike/dirtbike/gray
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+phone_shop
+adding 5 objects.
+aeroplane/fighter/purple
+aeroplane/jet/gray
+bus/school/brown
+aeroplane/jet/yellow
+car/truck/cyan
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+schadowplatz
+adding 5 objects.
+aeroplane/airliner/yellow
+bus/double/yellow
+bicycle/mountain/blue
+motorbike/cruiser/green
+bicycle/mountain/gray
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+skukuza_golf
+adding 4 objects.
+aeroplane/fighter/yellow
+bus/school/green
+car/sedan/purple
+bus/double/red
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+garage
+adding 4 objects.
+aeroplane/jet/red
+motorbike/dirtbike/green
+motorbike/scooter/brown
+car/minivan/red
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+venetian_crossroads
+adding 4 objects.
+aeroplane/jet/yellow
+car/truck/blue
+car/suv/red
+bicycle/mountain/cyan
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+moulton_station_train_tunnel_west
+adding 3 objects.
+aeroplane/airliner/red
+bus/school/gray
+motorbike/chopper/brown
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+railway_bridge_02
+adding 5 objects.
+aeroplane/airliner/blue
+motorbike/cruiser/purple
+motorbike/scooter/red
+car/truck/green
+car/minivan/brown
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+gym_01
+adding 4 objects.
+aeroplane/airliner/yellow
+bus/school/gray
+car/sedan/gray
+bus/school/cyan
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+herkulessaulen
+adding 4 objects.
+aeroplane/jet/cyan
+bus/double/green
+car/truck/cyan
+motorbike/scooter/yellow
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+missile_launch_facility_03
+adding 5 objects.
+aeroplane/fighter/yellow
+motorbike/dirtbike/purple
+car/truck/yellow
+car/wagon/red
+car/wagon/gray
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+between_bridges
+adding 5 objects.
+aeroplane/fighter/gray
+car/minivan/blue
+car/truck/yellow
+car/sedan/cyan
+bicycle/mountain/purple
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+autumn_ground
+adding 5 objects.
+aeroplane/jet/red
+car/wagon/yellow
+car/truck/yellow
+bicycle/mountain/gray
+motorbike/chopper/yellow
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+forest_slope
+adding 3 objects.
+aeroplane/airliner/cyan
+bicycle/utility/gray
+motorbike/chopper/cyan
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+quarry_01
+adding 3 objects.
+aeroplane/airliner/yellow
+car/suv/cyan
+aeroplane/fighter/purple
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+stone_alley_03
+adding 3 objects.
+aeroplane/airliner/gray
+bicycle/utility/yellow
+car/wagon/cyan
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+monte_scherbelino
+adding 4 objects.
+aeroplane/jet/green
+aeroplane/fighter/cyan
+car/suv/yellow
+motorbike/chopper/green
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+yellow_field
+adding 4 objects.
+aeroplane/airliner/purple
+bus/double/blue
+motorbike/dirtbike/blue
+motorbike/scooter/green
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+versveldpas
+adding 3 objects.
+aeroplane/airliner/green
+bus/double/brown
+bicycle/mountain/brown
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+limehouse
+adding 3 objects.
+aeroplane/fighter/purple
+motorbike/cruiser/purple
+bus/articulated/green
+GPU rendering is enabled.
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+small_empty_house
+Error: Not freed memory blocks: 1, total unfreed memory 0.001259 MB
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+
+
+==========
+== CUDA ==
+==========
+
+CUDA Version 11.4.3
+
+Container image Copyright (c) 2016-2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+A copy of this license is made available in this container at /NGC-DL-CONTAINER-LICENSE for your convenience.
+

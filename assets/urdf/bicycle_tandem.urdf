@@ -1,0 +1,24 @@
+
+<robot name="bicycle_tandem">
+    <link name="base">
+        <inertial>
+            <origin xyz="0.0010408217073832556 -0.04144718915858715 0.01112534546112624" />
+            <mass value="0.0006739382385664106" />
+            <inertia ixx="0.00019626873033903525" ixy="2.6282959186639573e-07" 
+                     ixz="-9.070633343804254e-08" iyy="0.00017934051809968162" 
+                     iyz="1.4669491501071436e-06" izz="1.8029866926153047e-05" />
+        </inertial>
+        <visual>
+            <origin xyz="0.0010408217073832556 -0.04144718915858715 0.01112534546112624" />
+            <geometry>
+                <mesh filename="bicycle_tandem.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0.0010408217073832556 -0.04144718915858715 0.01112534546112624" />
+            <geometry>
+                <mesh filename="bicycle_tandem.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

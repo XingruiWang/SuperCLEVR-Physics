@@ -1,0 +1,24 @@
+
+<robot name="bicycle_mountain">
+    <link name="base">
+        <inertial>
+            <origin xyz="0.00014215649485942655 -0.03477744805514388 0.00446605220496547" />
+            <mass value="0.0018264734906356457" />
+            <inertia ixx="0.0003584293776904179" ixy="6.030653235151589e-08" 
+                     ixz="-1.2413701480849966e-06" iyy="0.0002910264989376622" 
+                     iyz="1.63238334816695e-05" izz="7.396181360509313e-05" />
+        </inertial>
+        <visual>
+            <origin xyz="0.00014215649485942655 -0.03477744805514388 0.00446605220496547" />
+            <geometry>
+                <mesh filename="bicycle_mountain.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0.00014215649485942655 -0.03477744805514388 0.00446605220496547" />
+            <geometry>
+                <mesh filename="bicycle_mountain.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

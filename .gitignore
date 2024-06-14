@@ -1,2 +1,12 @@
+CGParts_color
 data/
+work_dirs
+output*
 output/
+output2/
+gif
+tmp
+**/__pycache__
+assets/urdf copy/
+**/*.blend*
+assets/temp_bicycle.py

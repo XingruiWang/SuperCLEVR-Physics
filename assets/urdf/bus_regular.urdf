@@ -1,0 +1,24 @@
+
+<robot name="bus_regular">
+    <link name="base">
+        <inertial>
+            <origin xyz="0.006501150709066889 0.058111255100991965 0.017902301978836594" />
+            <mass value="5.606078738142719e-21" />
+            <inertia ixx="0.004084984538426206" ixy="-2.3514077530283617e-07" 
+                     ixz="-2.625038050164233e-06" iyy="0.004060836438614858" 
+                     iyz="1.6113286636577747e-05" izz="0.0005052582918893691" />
+        </inertial>
+        <visual>
+            <origin xyz="0.006501150709066889 0.058111255100991965 0.017902301978836594" />
+            <geometry>
+                <mesh filename="bus_regular.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0.006501150709066889 0.058111255100991965 0.017902301978836594" />
+            <geometry>
+                <mesh filename="bus_regular.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

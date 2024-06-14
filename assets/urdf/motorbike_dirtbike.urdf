@@ -1,0 +1,24 @@
+
+<robot name="motorbike_dirtbike">
+    <link name="base">
+        <inertial>
+            <origin xyz="0.006066440001057612 0.03955467235321308 -0.04594438116457495" />
+            <mass value="0.0010730568347687747" />
+            <inertia ixx="0.0005204094582586494" ixy="-3.5940421165221455e-07" 
+                     ixz="-3.94658996587351e-07" iyy="0.00041418609172144514" 
+                     iyz="2.7021353054147083e-05" izz="0.00011775208845430473" />
+        </inertial>
+        <visual>
+            <origin xyz="0.006066440001057612 0.03955467235321308 -0.04594438116457495" />
+            <geometry>
+                <mesh filename="motorbike_dirtbike.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0.006066440001057612 0.03955467235321308 -0.04594438116457495" />
+            <geometry>
+                <mesh filename="motorbike_dirtbike.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

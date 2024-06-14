@@ -1,0 +1,24 @@
+
+<robot name="motorbike_chopper">
+    <link name="base">
+        <inertial>
+            <origin xyz="0.00019089669133037077 -0.03019396997218994 -0.00433834258968653" />
+            <mass value="0.01021799263076408" />
+            <inertia ixx="0.0006763903304547399" ixy="1.2934938992632894e-06" 
+                     ixz="3.4293036688338646e-07" iyy="0.000607072886576981" 
+                     iyz="-1.6346553077416462e-05" izz="9.17392640591996e-05" />
+        </inertial>
+        <visual>
+            <origin xyz="0.00019089669133037077 -0.03019396997218994 -0.00433834258968653" />
+            <geometry>
+                <mesh filename="motorbike_chopper.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0.00019089669133037077 -0.03019396997218994 -0.00433834258968653" />
+            <geometry>
+                <mesh filename="motorbike_chopper.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

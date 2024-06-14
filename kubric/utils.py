@@ -90,7 +90,7 @@ class ArgumentParser(argparse_flags.ArgumentParser):
 
 def setup(flags):
   setup_logging(flags.logging_level)
-  log_my_flags(flags)
+  # log_my_flags(flags)
 
   seed = flags.seed if flags.seed else np.random.randint(0, 2147483647)
   rng = np.random.RandomState(seed=seed)
@@ -167,6 +167,8 @@ def get_instance_info(scene, assets_subset=None):
     info["quaternions"] = instance.get_values_over_time("quaternion")
     info["velocities"] = instance.get_values_over_time("velocity")
     info["angular_velocities"] = instance.get_values_over_time("angular_velocity")
+    info["acceleration"] = instance.get_values_over_time("acceleration")
+    info["floatingForce"] = instance.get_values_over_time("floatingForce")
     info["mass"] = instance.mass
     info["friction"] = instance.friction
     info["restitution"] = instance.restitution

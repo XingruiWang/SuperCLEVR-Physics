@@ -1,0 +1,24 @@
+
+<robot name="aeroplane_airliner">
+    <link name="base">
+        <inertial>
+            <origin xyz="0.00012100165941547061 -0.006841196342657224 0.011199565595400486" />
+            <mass value="0.0013901638538335768" />
+            <inertia ixx="9.748453662875726e-05" ixy="3.3484215610089056e-08" 
+                     ixz="-2.1694258044043098e-08" iyy="0.00010519894041926044" 
+                     iyz="-6.51160137809697e-06" izz="1.3189681516540796e-05" />
+        </inertial>
+        <visual>
+            <origin xyz="0.00012100165941547061 -0.006841196342657224 0.011199565595400486" />
+            <geometry>
+                <mesh filename="aeroplane_airliner.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0.00012100165941547061 -0.006841196342657224 0.011199565595400486" />
+            <geometry>
+                <mesh filename="aeroplane_airliner.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

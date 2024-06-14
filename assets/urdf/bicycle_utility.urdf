@@ -1,0 +1,24 @@
+
+<robot name="bicycle_utility">
+    <link name="base">
+        <inertial>
+            <origin xyz="0.0259340081454938 -0.05003597987380955 0.01853569102033557" />
+            <mass value="0.0017953446762761533" />
+            <inertia ixx="0.0003037526561647231" ixy="6.37210576298065e-06" 
+                     ixz="-3.9583806993471315e-08" iyy="0.00023585141569432594" 
+                     iyz="5.736264340122024e-06" izz="7.586491049047336e-05" />
+        </inertial>
+        <visual>
+            <origin xyz="0.0259340081454938 -0.05003597987380955 0.01853569102033557" />
+            <geometry>
+                <mesh filename="bicycle_utility.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0.0259340081454938 -0.05003597987380955 0.01853569102033557" />
+            <geometry>
+                <mesh filename="bicycle_utility.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

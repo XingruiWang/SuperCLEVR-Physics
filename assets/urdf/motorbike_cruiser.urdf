@@ -1,0 +1,24 @@
+
+<robot name="motorbike_cruiser">
+    <link name="base">
+        <inertial>
+            <origin xyz="-0.002969513190900534 0.0017142448426887371 0.03661917084336712" />
+            <mass value="0.01521928398926994" />
+            <inertia ixx="0.0013994581378624115" ixy="-1.140885137377144e-06" 
+                     ixz="2.586921955899772e-06" iyy="0.001227642698239249" 
+                     iyz="4.885899439953766e-05" izz="0.00029038151958250255" />
+        </inertial>
+        <visual>
+            <origin xyz="-0.002969513190900534 0.0017142448426887371 0.03661917084336712" />
+            <geometry>
+                <mesh filename="motorbike_cruiser.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="-0.002969513190900534 0.0017142448426887371 0.03661917084336712" />
+            <geometry>
+                <mesh filename="motorbike_cruiser.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

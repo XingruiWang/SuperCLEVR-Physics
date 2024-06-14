@@ -90,14 +90,14 @@ def create_trimesh_from_obj(obj):
 
   tmesh = trimesh.Trimesh(vertices=vertices, faces=faces)
 
-  if tmesh.is_empty:
-    raise ValueError("Mesh is empty!")
-  if not tmesh.is_watertight:
-    raise ValueError("Mesh is not watertight (has holes)!")
-  if not tmesh.is_winding_consistent:
-    raise ValueError("Mesh is not winding consistent!")
-  if tmesh.body_count() > 1:
-    raise ValueError("Mesh consists of more than one connected component (bodies)!")
+  # if tmesh.is_empty:
+  #   raise ValueError("Mesh is empty!")
+  # if not tmesh.is_watertight:
+  #   raise ValueError("Mesh is not watertight (has holes)!")
+  # if not tmesh.is_winding_consistent:
+  #   raise ValueError("Mesh is not winding consistent!")
+  # if tmesh.body_count() > 1:
+  #   raise ValueError("Mesh consists of more than one connected component (bodies)!")
 
   return tmesh
 

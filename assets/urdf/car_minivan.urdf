@@ -1,0 +1,24 @@
+
+<robot name="car_minivan">
+    <link name="base">
+        <inertial>
+            <origin xyz="0.0014195999843933723 0.004858002024920806 0.06107180546255623" />
+            <mass value="0.04096627294196826" />
+            <inertia ixx="0.0018203416458774685" ixy="-1.2152931538638966e-06" 
+                     ixz="-4.911838278922248e-06" iyy="0.0019212624892315032" 
+                     iyz="-9.61641352517437e-05" izz="0.0005202670694011244" />
+        </inertial>
+        <visual>
+            <origin xyz="0.0014195999843933723 0.004858002024920806 0.06107180546255623" />
+            <geometry>
+                <mesh filename="car_minivan.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0.0014195999843933723 0.004858002024920806 0.06107180546255623" />
+            <geometry>
+                <mesh filename="car_minivan.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

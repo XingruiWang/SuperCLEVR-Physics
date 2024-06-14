@@ -47,6 +47,8 @@ from kubric.kubric_typing import PathLike
 logger = logging.getLogger(__name__)
 
 
+
+
 def as_path(path: PathLike) -> epath.Path:
   """Convert str or pathlike object to epath.Path.
 
@@ -87,8 +89,11 @@ class _NumpyEncoder(json.JSONEncoder):
   def default(self, o):
     if isinstance(o, np.ndarray):
       return o.tolist()
+    elif isinstance(o, np.bool_):
+        return bool(o)
+    elif isinstance(o, (np.int64, np.int32, np.int_)):
+        return int(o)
     return json.JSONEncoder.default(self, o)
-
 
 def write_png(data: np.array, filename: PathLike) -> None:
   """Writes data as a png file (and convert datatypes if necessary)."""

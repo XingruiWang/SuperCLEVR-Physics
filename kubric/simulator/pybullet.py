@@ -13,7 +13,7 @@
 # limitations under the License.
 
 # pylint: disable=function-redefined
-
+import numpy as np
 import functools
 import inspect
 import logging
@@ -205,6 +205,34 @@ class PyBullet(core.View):
         return True
     return False
 
+  def check_foreground_overlap(self, obj: core.PhysicalObject) -> bool:
+    obj_idx = obj.linked_objects[self]
+
+    body_ids = [
+        self._physics_client.getBodyUniqueId(i)
+        for i in range(self._physics_client.getNumBodies()) if i > 0
+    ]
+
+    for body_id in body_ids:
+      if body_id == obj_idx:
+        continue
+      overlap_points = self._physics_client.getClosestPoints(
+          obj_idx, body_id, distance=0)
+      if overlap_points:
+        return True
+    return False
+
+  def check_background_overlap(self, obj: core.PhysicalObject) -> bool:
+    obj_idx = obj.linked_objects[self]
+
+    body_id = self._physics_client.getBodyUniqueId(0)
+
+    overlap_points = self._physics_client.getClosestPoints(
+        obj_idx, body_id, distance=0)
+    if overlap_points:
+      return True
+    return False
+
   def get_position_and_rotation(self, obj_idx: int):
     pos, quat = self._physics_client.getBasePositionAndOrientation(obj_idx)
     return pos, xyzw2wxyz(quat)  # convert quaternion format
@@ -219,6 +247,18 @@ class PyBullet(core.View):
     # first store in a temporary file and then copy, to support remote paths
     self._physics_client.saveBullet(str(self.scratch_dir / "scene.bullet"))
     tf.io.gfile.copy(self.scratch_dir / "scene.bullet", path, overwrite=True)
+
+  def check_out_of_bound(self):
+    pass
+    # obj_idxs = [
+    #   self._physics_client.getBodyUniqueId(i)
+    #   for i in range(self._physics_client.getNumBodies())
+    # ]
+    # for obj_idx in obj_idxs:
+    #   for i in range(3):  # For each dimension
+    #     if obj["position"][i] <= scene_min[i] or obj["position"][i] >= scene_max[i]:
+    #         obj["velocity"] = np.array([0, 0, 0])  # Stop the object
+    #         # You can also add more logic here to make the object static in other ways
 
   def run(
       self,
@@ -241,29 +281,83 @@ class PyBullet(core.View):
       A dict of all animations and a list of all collision events.
     """
 
-    frame_end = self.scene.frame_end if frame_end is None else frame_end
-    steps_per_frame = self.scene.step_rate // self.scene.frame_rate
+    frame_end = self.scene.frame_end if frame_end is None else frame_end # 120
+    steps_per_frame = self.scene.step_rate // self.scene.frame_rate # 240 / 60 == 4
     max_step = (frame_end - frame_start + 1) * steps_per_frame
 
     obj_idxs = [
         self._physics_client.getBodyUniqueId(i)
         for i in range(self._physics_client.getNumBodies())
     ]
-    animation = {obj_id: {"position": [], "quaternion": [], "velocity": [], "angular_velocity": []}
+    animation = {obj_id: {"position": [], "quaternion": [], "velocity": [], "angular_velocity": [], \
+                          "acceleration": [], "floatingForce": []
+                          }
                  for obj_id in obj_idxs}
 
     collisions = []
-    for current_step in range(max_step):
+    collided_with_others = set()
+    collided_with_floor = set()
+    speed_limited = set()
 
+    # self.check_out_of_bound() # unfinished
+    for current_step in range(max_step):
+      # add a force
+      accelerations = {0:0}
+      floatings = {0:0}
+      for obj_idx in obj_idxs:
+        # set the force.
+        # The relative direction follows the order [right, up, back] along each objects.
+        # import pdb; pdb.set_trace()
+        if obj_idx > 0:
+          scene_obj = self.scene.foreground_assets[obj_idx-1]
+          # mass = self._physics_client.getDynamicsInfo(3, -1)[0] 
+          mass = scene_obj.mass
+          if animation[obj_idx]["velocity"]:
+            speed_norm = np.linalg.norm(animation[obj_idx]["velocity"][-1][:2])
+            # print("Speed norm", speed_norm, animation[obj_idx]["velocity"][-1][:])
+            # Define overspeed
+            if scene_obj.metadata['init_speed'] == 6 and speed_norm >= 8:
+              speed_limited.add(obj_idx)
+            elif scene_obj.metadata['init_speed'] <= 3 and speed_norm >= 5:
+              speed_limited.add(obj_idx)
+
+          if scene_obj.metadata['engine_on'] and not obj_idx in collided_with_others:
+            acceleration = 0 if obj_idx in speed_limited else 3
+            forward_force = [0, 0, -acceleration * mass]
+            self._physics_client.applyExternalForce(objectUniqueId=obj_idx, 
+                                linkIndex=-1, 
+                                forceObj=forward_force, 
+                                posObj=[0, 0, 0],  # Position is irrelevant in LINK_FRAME for this use case
+                                flags=self._physics_client.LINK_FRAME)
+            accelerations[obj_idx] = acceleration
+          else:
+            accelerations[obj_idx] = 0
+
+          
+          if scene_obj.metadata['floated'] and not obj_idx in collided_with_floor:
+            float_force = [0, 10*mass, 0]
+            self._physics_client.applyExternalForce(objectUniqueId=obj_idx, 
+                                linkIndex=-1, 
+                                forceObj=float_force, 
+                                posObj=[0, 0, 0],  # Position is irrelevant in LINK_FRAME for this use case
+                                flags=self._physics_client.LINK_FRAME)    
+            floatings[obj_idx] = 10
+          else:
+            floatings[obj_idx] = 0                    
+        # print("Len of physics objects", obj_idxs, self._physics_client.getNumBodies() )
+        # print("Len of scene objects", len( self.scene.foreground_assets))
+
+    
       contact_points = self._physics_client.getContactPoints()
+    
       for collision in contact_points:
         (contact_flag,
-         body_a, body_b,
-         link_a, link_b,
-         position_a, position_b, contact_normal_b,
-         contact_distance, normal_force,
-         lateral_friction1, lateral_friction_dir1,
-         lateral_friction2, lateral_friction_dir2) = collision
+        body_a, body_b,
+        link_a, link_b,
+        position_a, position_b, contact_normal_b,
+        contact_distance, normal_force,
+        lateral_friction1, lateral_friction_dir1,
+        lateral_friction2, lateral_friction_dir2) = collision
         del link_a, link_b  # < unused
         del contact_flag, contact_distance, position_a  # < unused
         del lateral_friction1, lateral_friction2  # < unused
@@ -274,8 +368,14 @@ class PyBullet(core.View):
               "position": position_b,
               "contact_normal": contact_normal_b,
               "frame": current_step / steps_per_frame,
-              "force": normal_force,
+              "force": normal_force
           })
+        collision_obj_1, collision_obj_2 = min(body_a, body_b), max(body_a, body_b)
+        if collision_obj_1 == 0:
+          collided_with_floor.add(collision_obj_2)
+        else:
+          collided_with_others.add(collision_obj_1)
+          collided_with_others.add(collision_obj_2)
 
       if current_step % steps_per_frame == 0:
         for obj_idx in obj_idxs:
@@ -286,6 +386,8 @@ class PyBullet(core.View):
           animation[obj_idx]["quaternion"].append(quaternion)
           animation[obj_idx]["velocity"].append(velocity)
           animation[obj_idx]["angular_velocity"].append(angular_velocity)
+          animation[obj_idx]["acceleration"].append(accelerations[obj_idx])
+          animation[obj_idx]["floatingForce"].append(floatings[obj_idx])
 
       self._physics_client.stepSimulation()
 
@@ -299,10 +401,14 @@ class PyBullet(core.View):
         obj.quaternion = animation[obj]["quaternion"][frame_id]
         obj.velocity = animation[obj]["velocity"][frame_id]
         obj.angular_velocity = animation[obj]["angular_velocity"][frame_id]
+        obj.acceleration = animation[obj]["acceleration"][frame_id]
+        obj.floatingForce = animation[obj]["floatingForce"][frame_id]
         obj.keyframe_insert("position", frame_id + frame_start)
         obj.keyframe_insert("quaternion", frame_id + frame_start)
         obj.keyframe_insert("velocity", frame_id + frame_start)
         obj.keyframe_insert("angular_velocity", frame_id + frame_start)
+        obj.keyframe_insert("acceleration", frame_id + frame_start)
+        obj.keyframe_insert("floatingForce", frame_id + frame_start)
 
     return animation, collisions
 

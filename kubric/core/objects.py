@@ -187,6 +187,10 @@ class PhysicalObject(Object3D):
   friction = tl.Float(0.5)
   restitution = tl.Float(0.5)
 
+  # superclevr-physics properties
+  acceleration = tl.Float(0.0)
+  floatingForce = tl.Float(0.0)
+
   # TODO: a tuple of two numpy arrays is annoying to work with
   #       either convert to single 2D array or to as tuples
   bounds = tl.Tuple(ktl.Vector3D(), ktl.Vector3D(),
@@ -277,5 +281,7 @@ class FileBasedObject(PhysicalObject):
   simulation_filename = tl.Unicode(allow_none=True)
   render_filename = tl.Unicode(allow_none=True)
   render_import_kwargs = tl.Dict(key_trait=tl.ObjectName())
+
+  need_auto_smooth = tl.Bool(False)
 
   # TODO: trigger error when changing filenames or asset-id after the fact

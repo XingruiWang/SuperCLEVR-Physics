@@ -1,0 +1,24 @@
+
+<robot name="car_suv">
+    <link name="base">
+        <inertial>
+            <origin xyz="0.003179414399628075 0.025466700495648958 0.04672775787747597" />
+            <mass value="0.022852021887242342" />
+            <inertia ixx="0.003788297674541282" ixy="-3.469184586960888e-06" 
+                     ixz="6.271110065323261e-06" iyy="0.004000964721213668" 
+                     iyz="-0.0002593237631329137" izz="0.000981607814695956" />
+        </inertial>
+        <visual>
+            <origin xyz="0.003179414399628075 0.025466700495648958 0.04672775787747597" />
+            <geometry>
+                <mesh filename="car_suv.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0.003179414399628075 0.025466700495648958 0.04672775787747597" />
+            <geometry>
+                <mesh filename="car_suv.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

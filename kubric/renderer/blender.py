@@ -36,6 +36,10 @@ from kubric.renderer import blender_utils
 from kubric import file_io
 from kubric.file_io import PathLike
 
+from tqdm import tqdm
+import cv2
+
+
 logger = logging.getLogger(__name__)
 
 
@@ -187,7 +191,11 @@ class Blender(core.View):
       # call get_devices() to let Blender detect GPU devices
       preferences = bpy.context.preferences
       cycles_preferences = preferences.addons['cycles'].preferences
-      cuda_devices, opencl_devices = cycles_preferences.get_devices()
+      try:
+        cuda_devices, opencl_devices = cycles_preferences.get_devices()
+      except:
+        cycles_preferences.refresh_devices()
+        cuda_devices = cycles_preferences.devices
       cycles_preferences.compute_device_type = "CUDA"
       for device in cuda_devices:
         logger.info("Activating: %s", device.name)
@@ -272,6 +280,7 @@ class Blender(core.View):
     if use_gpu:
         print("GPU rendering is enabled.")
     else:
+        import ipdb; ipdb.set_trace()
         print("GPU rendering is not enabled.")
     if not ignore_missing_textures:
       self._check_missing_textures()
@@ -280,14 +289,14 @@ class Blender(core.View):
     if frames is None:
       frames = range(self.scene.frame_start, self.scene.frame_end + 1)
     with RedirectStream(stream=sys.stdout, disabled=self.verbose):
-      for frame_nr in frames:
+      for frame_nr in tqdm(frames):
         bpy.context.scene.frame_set(frame_nr)
         # When writing still images Blender doesn't append the frame number to the png path.
         # (but for exr it does, so we only adjust the png path)
         bpy.context.scene.render.filepath = str(
             self.scratch_dir / "images" / f"frame_{frame_nr:04d}.png")
         bpy.ops.render.render(animation=False, write_still=True)
-        logger.info("Rendered frame '%s'", bpy.context.scene.render.filepath)
+        # logger.info("Rendered frame '%s'", bpy.context.scene.render.filepath)
 
     # --- post process the rendered frames
     return self.postprocess(self.scratch_dir, return_layers=return_layers)
@@ -345,10 +354,13 @@ class Blender(core.View):
                   for exr_filename in exr_frames]
 
     for exr_filename, png_filename in zip(exr_frames, png_frames):
+
       source_layers = blender_utils.get_render_layers_from_exr(exr_filename)
       # Use the contrast-normalized PNG instead of the EXR for RGBA.
-      source_layers["rgba"] = file_io.read_png(png_filename)
+      # source_layers["rgba"] = file_io.read_png(png_filename)
+      source_layers["rgba"] = cv2.cvtColor(cv2.imread(str(png_filename), cv2.IMREAD_UNCHANGED), cv2.COLOR_BGRA2RGBA)
 
+      
       for key in return_layers:
         post_processor = self.post_processors[key]
         data_stack[key].append(post_processor(source_layers, self.scene))
@@ -467,7 +479,8 @@ class Blender(core.View):
 
     # deactivate auto_smooth because for some reason it lead to no smoothing at all
     # TODO: make smoothing configurable
-    blender_obj.data.use_auto_smooth = False
+
+    blender_obj.data.use_auto_smooth = obj.need_auto_smooth
 
     register_object3d_setters(obj, blender_obj)
     obj.observe(AttributeSetter(blender_obj, "active_material",

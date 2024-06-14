@@ -1,0 +1,24 @@
+
+<robot name="car_wagon">
+    <link name="base">
+        <inertial>
+            <origin xyz="0.005292532306964997 0.020183490937104507 0.08201370711009305" />
+            <mass value="0.03991402239604163" />
+            <inertia ixx="0.0031937860503033744" ixy="-2.264739223167645e-06" 
+                     ixz="-1.3584699989864552e-05" iyy="0.003468537240068737" 
+                     iyz="-0.00013221122237588065" izz="0.000763221063800428" />
+        </inertial>
+        <visual>
+            <origin xyz="0.005292532306964997 0.020183490937104507 0.08201370711009305" />
+            <geometry>
+                <mesh filename="car_wagon.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0.005292532306964997 0.020183490937104507 0.08201370711009305" />
+            <geometry>
+                <mesh filename="car_wagon.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>

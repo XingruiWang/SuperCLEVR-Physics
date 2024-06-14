@@ -1,0 +1,24 @@
+
+<robot name="aeroplane_biplane">
+    <link name="base">
+        <inertial>
+            <origin xyz="0.0022600302498003515 -0.004760879670433535 -0.04139349505164634" />
+            <mass value="5.782411586589357e-19" />
+            <inertia ixx="6.908226106073018e-05" ixy="-8.203573596183293e-06" 
+                     ixz="2.4655390202682994e-07" iyy="0.00012073597206672409" 
+                     iyz="2.3735738123415858e-07" izz="7.178978497301903e-05" />
+        </inertial>
+        <visual>
+            <origin xyz="0.0022600302498003515 -0.004760879670433535 -0.04139349505164634" />
+            <geometry>
+                <mesh filename="aeroplane_biplane.obj" />
+            </geometry>
+        </visual>
+        <collision>
+            <origin xyz="0.0022600302498003515 -0.004760879670433535 -0.04139349505164634" />
+            <geometry>
+                <mesh filename="aeroplane_biplane.obj" />
+            </geometry>
+        </collision>
+    </link>
+</robot>
