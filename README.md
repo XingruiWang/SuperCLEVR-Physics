@@ -2,7 +2,7 @@
 
 A dynamical 3D scene understanding dataset extended from [SuperCLEVR](https://github.com/Lizw14/Super-CLEVR) for video question answering.
 
-![header](https://github.com/XingruiWang/SuperCLEVR-Physics/blob/master/imgs/merged_animated_grid.gif)
+![header](https://github.com/XingruiWang/SuperCLEVR-Physics/blob/master/imgs/merged_animated_grid.gif?raw=true)
 
 # Description
 
