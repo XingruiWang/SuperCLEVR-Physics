@@ -1,6 +1,7 @@
 # SuperCLEVR Physics
 
-[![arXiv](https://img.shields.io/badge/arXiv-2406.00622-b31b1b.svg)](https://arxiv.org/abs/2406.00622)
+[![arXiv](https://img.shields.io/badge/arXiv-2406.00622-b31b1b.svg)](https://arxiv.org/abs/2406.00622) ![License](https://img.shields.io/github/license/XingruiWang/SuperCLEVR-Physics)
+
 
 A dynamical 3D scene understanding dataset for Video Question Answering. The scenes are annotated with objects' (1) static properties (**shape**, **color**) and (2) 3D dynamical properties (**3D position**, **velocities**, **external forces**), and (3) physical properties (**mass**, **frictions**, **restitution**); and Collision Event (objects involved, frame). 
 
