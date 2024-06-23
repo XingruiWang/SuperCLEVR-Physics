@@ -15,7 +15,9 @@ A dynamical 3D scene understanding dataset for Video Question Answering. The sce
 
 ## Video Question Answering
 
-We design 3 types of questions: factual question, predictive question and counterfactual question from the generated scenes.
+We design questions about the dynamical properties under 4D space of objects and their collision events.
+
+There are types of questions: factual question, predictive question and counterfactual question from the generated scenes.
 
 
 
