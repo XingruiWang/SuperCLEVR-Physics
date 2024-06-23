@@ -13,9 +13,15 @@ A dynamical 3D scene understanding dataset for Video Question Answering. The sce
 
 - [SuperCLEVR-3D](https://github.com/XingruiWang/superclevr-3D-question). A VQA dataset for 3D awareness scene understanding the objects from images including 3D poses, parts, and occlusions. 
 
+## Video Question Answering
+
+We design 3 types of questions: factual question, predictive question and counterfactual question from the generated scenes.
+
+
+
 ## How to generate your own data
 
-<h3>Environment</h3> 
+<h3>1. Environment</h3> 
 <details>
 
 <summary>Setup Environment</summary>
@@ -36,15 +42,14 @@ pip install -r requirements.txt
 
 This is the python package for [blender](https://www.blender.org/) software, which is able to be installed from pip now. ([PyPI](https://pypi.org/project/bpy/), [official site](https://www.blender.org/))
 
-
 ```
 pip install bpy==3.5
 ```
-If 3.5 is not applicable, 3.4 should also compatible to this repo.
+If 3.5 is not applicable, 3.4 should also be compatible to this repo.
 
 </details>
 
-### Run Code
+### 2. Video rendering
 
 Run `bash run.sh` directly for new scene creation and video rendering. 
 
