@@ -15,26 +15,26 @@ A dynamical 3D scene understanding dataset for Video Question Answering. The sce
 
 ## How to generate your own data
 
+<h3>Environment</h3> 
 <details>
 
 <summary>Setup Environment</summary>
 
-### Python version
+#### Python version
 
-I use python version 3.10. The python version will affect the compatibility of bpy packages.
+We use python version 3.10. The python version will affect the compatibility of bpy packages.
 
-### Install Dependency
+#### Install Dependencies
 
 Our repo is build upon Kubric. Please use the following steps to install kubric packages. We modify the original package for controlling more dynamical properties. 
 
 ```
 pip install -r requirements.txt
-
 ```
 
-### Install bpy
+#### Install bpy
 
-This is the python package for blender software. The bpy is now able to be installed from pip
+This is the python package for blender software, which is able to be installed from pip now.
 
 ```
 pip install bpy==3.5
@@ -43,9 +43,56 @@ If 3.5 is not applicable, 3.4 should also compatible to this repo.
 
 </details>
 
+### Run Code
 
+Run `bash run.sh` directly for new scene creation and video rendering. 
 
+Example of generating 100 videos.
 
+```bash
+time="$(date +%Y-%m-%d_%H-%M-%S)"
+for num in {0..100}
+do 
+    CUDA_VISIBLE_DEVICES=xx python sim_render_color_defined_load_scene.py \
+        --data_dir=assets \
+        --job-dir=output/superclevr-physics \
+        --scratch_dir=output/tmp/tmp-$time \
+        --camera=fixed \
+        --height=realistic \
+        --iteration=$num \
+        --scene_size 5 
+done
+```
+
+The output folder will be like
+
+```
+output/superclevr-physics
+└───super_clevr_0
+│   └───events.json
+|   └───metadata.json
+|   └───rgba_00000.png
+|   └───rgba_00001.png
+|   └───...
+|   └───rgba_00120.png
+└───super_clevr_1
+│   └───events.json
+|   └───metadata.json
+|   └───rgba_00000.png
+|   └───rgba_00001.png
+|   └───...
+|   └───rgba_00120.png
+```
+
+## Citation
+```
+@article{wang2024compositional,
+  title={Compositional 4D Dynamic Scenes Understanding with Physics Priors for Video Question Answering},
+  author={Wang, Xingrui and Ma, Wufei and Wang, Angtian and Chen, Shuo and Kortylewski, Adam and Yuille, Alan},
+  journal={arXiv preprint arXiv:2406.00622},
+  year={2024}
+}
+```
 
 <!--
 ## Video Question Answering

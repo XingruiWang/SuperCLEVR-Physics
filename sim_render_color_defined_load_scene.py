@@ -27,10 +27,10 @@ def config():
     parser = kb.ArgumentParser()
 
     parser.set_defaults(
-        frame_end = 10,
+        frame_end = 120,
         resolution=(1280, 960),
-        # frame_rate=60
-        frame_rate=6
+        frame_rate=60
+        # frame_rate=6
     )
 
 
@@ -527,13 +527,13 @@ def sim_run(args):
     start_time = time()
     load_scene = None
     if args.load_scene:
-        load_path = f'{args.load_scene}/super_clever_{args.iteration}/metadata.json'
+        load_path = f'{args.load_scene}/super_clevr_{args.iteration}/metadata.json'
         with open(load_path, 'r') as f:
             load_scene = json.load(f)
 
     scene, rng, output_dir, scratch_dir = kb.setup(args)
     
-    output_dir = Path(str(output_dir) + '/super_clever_{}'.format(args.iteration))
+    output_dir = Path(str(output_dir) + '/super_clevr_{}'.format(args.iteration))
     if not os.path.isdir(output_dir):
         os.makedirs(output_dir)
     renderer = Blender(scene, scratch_dir,
