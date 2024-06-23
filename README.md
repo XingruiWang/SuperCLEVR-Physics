@@ -5,8 +5,7 @@
 
 A dynamical 3D scene understanding dataset for Video Question Answering. The scenes are annotated with objects' (1) static properties (**shape**, **color**) and (2) 3D dynamical properties (**3D position**, **velocities**, **external forces**), and (3) physical properties (**mass**, **frictions**, **restitution**); and Collision Event (objects involved, frame). 
 
-
-![SuperCLEVR Physics Videos](https://github.com/XingruiWang/SuperCLEVR-Physics/blob/master/imgs/merged_animated_grid.gif?raw=true)
+<img alt="SuperCLEVR Physics Videos" src="https://github.com/XingruiWang/SuperCLEVR-Physics/blob/master/imgs/merged_animated_grid.gif?raw=true">
 <p align="center"><small>(Note: the color space is compressed for visualization)</small></p>
 
 ### Related works
