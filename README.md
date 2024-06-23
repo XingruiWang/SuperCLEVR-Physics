@@ -13,6 +13,40 @@ A dynamical 3D scene understanding dataset for Video Question Answering. The sce
 
 - [SuperCLEVR-3D](https://github.com/XingruiWang/superclevr-3D-question). A VQA dataset for 3D awareness scene understanding the objects from images including 3D poses, parts, and occlusions. 
 
+## How to generate your own data
+
+<details>
+
+<summary>Setup Environment</summary>
+
+### Python version
+
+I use python version 3.10. The python version will affect the compatibility of bpy packages.
+
+### Install Dependency
+
+Our repo is build upon Kubric. Please use the following steps to install kubric packages. We modify the original package for controlling more dynamical properties. 
+
+```
+pip install -r requirements.txt
+
+```
+
+### Install bpy
+
+This is the python package for blender software. The bpy is now able to be installed from pip
+
+```
+pip install bpy==3.5
+```
+If 3.5 is not applicable, 3.4 should also compatible to this repo.
+
+</details>
+
+
+
+
+
 <!--
 ## Video Question Answering
 
