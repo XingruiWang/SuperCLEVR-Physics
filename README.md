@@ -26,7 +26,7 @@ We use python version 3.10. The python version will affect the compatibility of 
 
 #### Install Dependencies
 
-Our repo is build upon Kubric. Please use the following steps to install kubric packages. We modify the original package for controlling more dynamical properties. 
+ Please use the following steps to install packages. Our project is built upon [Kubric](https://github.com/google-research/kubric). We modified the original package to control more dynamical properties.
 
 ```
 pip install -r requirements.txt
@@ -34,7 +34,8 @@ pip install -r requirements.txt
 
 #### Install bpy
 
-This is the python package for blender software, which is able to be installed from pip now.
+This is the python package for [blender](https://www.blender.org/) software, which is able to be installed from pip now. ([PyPI](https://pypi.org/project/bpy/), [official site](https://www.blender.org/))
+
 
 ```
 pip install bpy==3.5
